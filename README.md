@@ -75,7 +75,6 @@ Open the terminal and execute the appropriate commands for your distribution:
    ```bash
    python downloader.py
    ```
-   Replace `downloader.py` with the name of the script file.
 2. Enter the URL of the YouTube video when prompted.
 3. The script will:
    - Download the video and audio streams.
